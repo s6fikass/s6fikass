@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Firas Kassawt's github stats](https://github-readme-stats.vercel.app/api?username=s6fikass&show_icons=true&theme=algolia)](https://github.com/s6fikass/github-readme-stats)
+[![Firas Kassawt's github stats](https://github-readme-stats.vercel.app/api?username=s6fikass&show_icons=true&theme=algolia)](https://github.com/s6fikass)
+
+
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6fikass&langs_count=5&theme=algolia)](https://github.com/s6fikass)
