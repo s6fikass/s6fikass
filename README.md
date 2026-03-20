@@ -1,5 +1,18 @@
 ### Hi there 👋
+Hi 👋 I'm a Software Developer with a strong focus on backend systems, IoT, and intelligent data processing.
 
+I have hands-on experience designing REST APIs, building full-stack applications, and developing solutions that combine hardware (IoT) with software intelligence (computer vision, OCR, and text mining).
+
+🧠 Current focus:
+- Explainable AI
+- Scalable data systems
+- Real-world AI applications
+
+💻 Tech Stack:
+Java | Grails | Groovy | ReactJS | REST APIs  
+IoT (MQTT) | Image Processing | OCR | Geo-data Processing  
+
+🌍 Based in Europe | Open to collaboration and opportunities
 <!--
 **s6fikass/s6fikass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
