@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi 👋 I'm a Software Developer with a strong focus on backend systems, IoT, and intelligent data processing.
+Hi 👋 I'm a Software Developer and a machine learning Consultant with a strong focus on backend systems, IoT, and intelligent data processing.
 
 I have hands-on experience designing REST APIs, building full-stack applications, and developing solutions that combine hardware (IoT) with software intelligence (computer vision, OCR, and text mining).
 
